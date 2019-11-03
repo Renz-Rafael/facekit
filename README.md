@@ -10,4 +10,5 @@ $ pip2 install mechanize
 $ pip2 install requests
 $ git clone https://github.com/Renz-Rafael/facekit
 $ cd ngekek
+$ unzip data.zip
 $ python sun.py
